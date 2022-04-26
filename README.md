@@ -1,5 +1,3 @@
-Hello, everyone!
-
 ## 👋 Hi there
 
 [![Monica's github stats](https://github-readme-stats.vercel.app/api?username=hyperlyp&show_icons=true&theme=onedark)](https://github.com/hyperlyp)
