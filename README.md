@@ -14,6 +14,9 @@
 
 ## Genshin Impact
 **💡 My Profile**
+
 ![](https://genshin-card.himiku.com/54/288304057.png)
+
 **💡 Profile of My Girlfriend**
+
 ![](https://genshin-card.himiku.com/94/280758496.png)
