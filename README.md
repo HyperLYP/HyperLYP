@@ -13,4 +13,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 ## Genshin Impact
-![](https://genshin-card.getloli.com/detail/43/288304057.png)
+![](https://genshin-card.himiku.com/detail/43/288304057.png)
